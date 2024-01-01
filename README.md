@@ -3,7 +3,7 @@
 ### 🤵 About Me:
 - 🔭 I’m currently working on **Java, Spring Boot and Angular**
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: **sainathaniyer@gmail.com**
+- 📫 How to reach me: **saikrishna1539@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
